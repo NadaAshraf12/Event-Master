@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# 🎉 EventMaster
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**EventMaster** is a powerful web application for planning and managing events like conferences, workshops, and community meetups. The system provides tailored interfaces and privileges for three types of users: **Admin**, **Event Organizer**, and **Participant**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 👥 User Roles
 
-### `npm start`
+- **Admin**
+  - Approves or rejects event organizer accounts.
+  - Reviews and manages submitted events.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Event Organizer**
+  - Can create, update, delete, and manage events (CRUD).
+  - Uploads event materials (attachments).
+  - Sends real-time updates to participants.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Participant**
+  - Can view events without logging in.
+  - Must log in to register or interact with events.
+  - Can search by location or date.
+  - Can register for events (if tickets are available), pay, and receive updates.
+  - Can save favorite events and download materials.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Key Features
 
-### `npm run build`
+- 🧾 **Event Details:** Organizer name, title, description, venue, date, price, available tickets, number of registered participants.
+- 💸 **Ticket Booking:** Participants can book and pay for available tickets.
+- 🔍 **Search Functionality:** Filter events by location or date.
+- 🔔 **Real-Time Notifications:** Implemented using **real-time sockets**.
+- 📎 **Attachments:** Upload/download materials related to events.
+- 📧 **Updates:** Participants get instant updates and alerts.
+- 🔐 **Authentication System** for all actors.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🗃️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** React.js
+- **Backend:** ASP.NET Core Web API
+- **Real-Time Communication:** SignalR (Sockets)
+- **Database:** SQL Server (with relational DB schema design)
+- **Authentication:** JWT or ASP.NET Identity
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Setup Instructions
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone the repo
+git clone https://github.com/NadaAshraf12/Event-Master.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Navigate to the frontend
+cd client
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Install dependencies
+npm install
 
-## Learn More
+# Start the React app
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Backend instructions in /server folder (ASP.NET Core)
