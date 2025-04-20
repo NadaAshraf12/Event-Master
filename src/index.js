@@ -1,16 +1,17 @@
-import React from 'react';
-import { createRoot } from 'react-dom/client';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import { RouterProvider } from "react-router-dom";
+import { router } from "./Router.jsx"; // ✅ استخدمي الأقواس
+ 
 
-const container = document.getElementById('root');
+const container = document.getElementById("root");
 const root = createRoot(container);
+
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
-// Optional: service worker
-serviceWorker.unregister(); // or serviceWorker.register();
+
