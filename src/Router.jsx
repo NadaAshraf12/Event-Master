@@ -6,6 +6,8 @@ import EventDetails from "./components/EventDetails";
 import PageNotFound from "./components/PageNotFound";
 import { EventOrganizerPage } from "./components/eventOrganizer/EventOrganizerPage";
 import { EventList } from "./components/eventOrganizer/EventList";
+import Create from "./components/eventOrganizer/crud/Create";
+
 
 
 export const router = createBrowserRouter([
@@ -32,6 +34,11 @@ export const router = createBrowserRouter([
   {
     path: "/EventList",
     element: <EventList />,
+  },
+  
+  {
+    path: "/eventOrganizer/crud/Create",
+    element: <Create />,
   },
   {
     path: "*",
