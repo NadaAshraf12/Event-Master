@@ -1,0 +1,15 @@
+.filterContainer {
+    margin-bottom: 30px;
+  }
+  
+  .filterRow {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .filterCol {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+  }
+  

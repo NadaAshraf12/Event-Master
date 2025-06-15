@@ -1,0 +1,18 @@
+.adminContainer {
+    margin-left: 40px;
+    padding: 20px;
+  }
+  
+  .errorAlert {
+    margin-bottom: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+  }
+  
+  .cardRow {
+    margin: 0 -15px;
+  }

@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\EventOrganizerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EventOrganizerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\ParticipantController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ParticipantController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\Auth\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Auth\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\GlobalFunctions\\HashHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Models\\Registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Models\\Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Models\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs Models\\EventOrganizerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs Models\\PaymentMethodDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\ChangePasswordDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs Models\\ChangePasswordDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\AdminDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs Models\\AdminDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AttachmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AttachmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\RegistrationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DTOs Models\\RegistrationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs Models\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Data\\DTOs Models\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:03:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Controllers\\GlobalFunctions\\HashHelper.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "RelativeToolTip": "Controllers\\GlobalFunctions\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:53:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Authentication.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Authentication.cs",
+              "RelativeToolTip": "Data\\Models\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:26:48.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth\\AuthenticationController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\Auth\\AuthenticationController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:20.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventOrganizerController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\EventOrganizerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventOrganizerController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\EventOrganizerController.cs",
+              "RelativeToolTip": "Controllers\\EventOrganizerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:54:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipantController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:56:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentMethodDto.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs Models\\PaymentMethodDto.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "RelativeToolTip": "Data\\DTOs Models\\PaymentMethodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:03:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventOrganizerDto.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs Models\\EventOrganizerDto.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "RelativeToolTip": "Data\\DTOs Models\\EventOrganizerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:03:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Admin.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Admin.cs",
+              "RelativeToolTip": "Data\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:03:22.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:05:57.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Registration.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\Models\\Registration.cs",
+              "RelativeToolTip": "Data\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:27:28.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs Models\\AdminDto.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "RelativeToolTip": "Data\\DTOs Models\\AdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:02:54.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:01:45.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttachmentController.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AttachmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttachmentController.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Controllers\\AttachmentController.cs",
+              "RelativeToolTip": "Controllers\\AttachmentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:54:26.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs Models\\RegistrationDto.cs",
+              "ToolTip": "D:\\University\\L.3\\2 Third Year\\Network Security\\1 MATERIAL\\6 Project\\EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "RelativeToolTip": "Data\\DTOs Models\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:26:35.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

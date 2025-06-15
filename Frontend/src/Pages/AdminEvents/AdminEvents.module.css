@@ -1,0 +1,21 @@
+.container {
+    padding: 20px;
+    margin-left: 40px;
+  }
+  
+  .errorAlert {
+    margin-bottom: 20px;
+    background-color: #f2dede;
+    color: #a94442;
+    border-color: #ebccd1;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+  }
+  
+  .eventRow {
+    margin: 0 -15px;
+  }

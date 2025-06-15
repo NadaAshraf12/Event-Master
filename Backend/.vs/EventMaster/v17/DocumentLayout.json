@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\auth\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\auth\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\globalfunctions\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\globalfunctions\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\eventorganizerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\eventorganizerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtos models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtos models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtoreceivemodels\\registrationdtoreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtoreceivemodels\\registrationdtoreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\dtoreceivemodels\\eventreceivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\dtoreceivemodels\\eventreceivedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\eventorganizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\eventorganizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\globalfunctions\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\globalfunctions\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\controllers\\globalfunctions\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\controllers\\globalfunctions\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\eventorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\eventorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\eventmaster.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\eventmaster.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|c:\\.net core\\1- ia project backend\\event-mastersecurity-main (1)\\event-mastersecurity-main\\eventmaster\\eventmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF778309-21A0-422E-AEBF-C6F65EE6F9CE}|EventMaster\\EventMaster.csproj|solutionrelative:eventmaster\\eventmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\appsettings.json",
+              "RelativeDocumentMoniker": "EventMaster\\appsettings.json",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\appsettings.json",
+              "RelativeToolTip": "EventMaster\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T20:01:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Program.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Program.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Program.cs",
+              "RelativeToolTip": "EventMaster\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:50:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwJgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:46:53.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\Auth\\AuthenticationController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:24:15.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\TokenService.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\GlobalFunctions\\TokenService.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\TokenService.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\GlobalFunctions\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:22:24.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\RefreshTokenDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\RefreshTokenDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\RefreshTokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:11:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:00:39.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\StatusDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\StatusDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\StatusDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\StatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:29:24.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentMethodDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\PaymentMethodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:22:40.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:08:22.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParticipantDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\ParticipantDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\ParticipantDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\ParticipantDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\ParticipantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:40:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\LoginDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\LoginDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:12:46.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventOrganizerDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\EventOrganizerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:34:55.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\EventDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\EventDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\EventDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\EventDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:48:05.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOs Models\\AdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:05:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationDtoReceiver.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOReceiveModels\\RegistrationDtoReceiver.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOReceiveModels\\RegistrationDtoReceiver.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOReceiveModels\\RegistrationDtoReceiver.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOReceiveModels\\RegistrationDtoReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:31:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventReceiveDto.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOReceiveModels\\EventReceiveDto.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\DTOReceiveModels\\EventReceiveDto.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\DTOReceiveModels\\EventReceiveDto.cs",
+              "RelativeToolTip": "EventMaster\\Data\\DTOReceiveModels\\EventReceiveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:49:40.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA4wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:11:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\PaymentMethodController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\PaymentMethodController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\PaymentMethodController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:01:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:47:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventOrganizerController.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\EventOrganizerController.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\EventOrganizerController.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\EventOrganizerController.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\EventOrganizerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:40:10.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\GlobalFunctions\\HashHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:42:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AESEncryption.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\AESEncryption.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Controllers\\GlobalFunctions\\AESEncryption.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Controllers\\GlobalFunctions\\AESEncryption.cs",
+              "RelativeToolTip": "EventMaster\\Controllers\\GlobalFunctions\\AESEncryption.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:15:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\Attachment.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Attachment.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:05:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\Admin.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Admin.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:10:59.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\Participant.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Participant.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:24:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventOrganizer.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\EventOrganizer.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\EventOrganizer.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\EventOrganizer.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\EventOrganizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:42:26.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\Event.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Event.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:45:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventMaster\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventMaster\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:59:24.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EventMaster",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\EventMaster.csproj",
+              "RelativeDocumentMoniker": "EventMaster\\EventMaster.csproj",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\EventMaster.csproj",
+              "RelativeToolTip": "EventMaster\\EventMaster.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T16:59:21.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\Registration.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\Registration.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:34:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EventMaster\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:22:37.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "EventMaster\\Data\\Models\\PaymentMethod.cs",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\Data\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "EventMaster\\Data\\Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:24:07.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANwUAAAAAAAAAAAawPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-26T02:21:43.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventMaster.csproj",
+              "DocumentMoniker": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\EventMaster.csproj",
+              "RelativeDocumentMoniker": "EventMaster\\EventMaster.csproj",
+              "ToolTip": "C:\\.NET Core\\1- IA Project Backend\\Event-MasterSecurity-main (1)\\Event-MasterSecurity-main\\EventMaster\\EventMaster.csproj",
+              "RelativeToolTip": "EventMaster\\EventMaster.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T01:52:11.072Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

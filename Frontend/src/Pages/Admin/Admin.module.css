@@ -1,0 +1,20 @@
+/* Admin.module.css */
+.container {
+    padding: 15px;
+  }
+  
+  .marginLeftDesktop {
+    margin-left: 0;
+  }
+  
+  @media (min-width: 768px) {
+    .marginLeftDesktop {
+      margin-left: 40px;
+    }
+  }
+  
+  .loading {
+    font-size: 16px;
+    color: #888;
+  }
+  

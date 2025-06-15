@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\Auth",
+    "\\Controllers\\GlobalFunctions",
+    "\\Data",
+    "\\Data\\Models",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Controllers\\EventOrganizerController.cs",
+  "PreviewInSolutionExplorer": false
+}

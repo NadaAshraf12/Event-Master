@@ -1,0 +1,216 @@
+{
+    "Header": {
+        "title": "Welcome to EventMaster",
+        "paragraph": "We specialize in delivering memorable event experiences, tailored to your needs. Reach out to us for unforgettable moments."
+    },
+    "About": {
+        "paragraph": "EventMaster is a comprehensive platform designed to simplify the planning and management of conferences, workshops, and community events. Whether you're an event organizer or a participant, our system offers a seamless experience for creating events, managing registrations, sending real-time updates, and sharing essential materials.",
+        "Why": [
+            "Create and manage events with ease",
+            "Flexible and secure participant registration",
+            "Real-time updates and notifications",
+            "Upload and share event-related materials"
+        ],
+        "Why2": [
+            "User-friendly and intuitive interface",
+            "Search events by location or date",
+            "Complete ticketing system support",
+            "Admin and organizer control panels"
+        ]
+    },
+    "Events": [
+        {
+            "id": 1,
+            "title": "AI & Machine Learning Workshop",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg",
+            "date": "2025-06-10",
+            "location": "Tech Hall, Cairo",
+            "description": "A deep dive into AI concepts and practical machine learning applications with hands-on labs.A deep dive into AI concepts and practical machine learning applications with hands-on labs.",
+            "organizer": "AI Community Egypt",
+            "registrationLink": "https://example.com/register/ai-ml-workshop"
+        },
+        {
+            "id": 2,
+            "title": "React Conference 2025",
+            "largeImage": "img/portfolio/02-large.jpg",
+            "smallImage": "img/portfolio/02-small.jpg",
+            "date": "2025-07-20",
+            "location": "Grand IT Center, Alexandria",
+            "description": "Explore the future of React and web development with top speakers from the React ecosystem.",
+            "organizer": "React Egypt",
+            "registrationLink": "https://example.com/register/react-conf-2025"
+        },
+        {
+            "id": 3,
+            "title": "Startup Pitch Night",
+            "largeImage": "img/portfolio/03-large.jpg",
+            "smallImage": "img/portfolio/03-small.jpg",
+            "date": "2025-08-05",
+            "location": "The Startup Hub, New Cairo",
+            "description": "Join us for a night of innovation where startups pitch ideas to investors and tech leaders.",
+            "organizer": "Entrepreneurship Hub",
+            "registrationLink": "https://example.com/register/pitch-night"
+        },
+        {
+            "id": 4,
+            "title": "Cybersecurity Awareness Day",
+            "largeImage": "img/portfolio/04-large.jpg",
+            "smallImage": "img/portfolio/04-small.jpg",
+            "date": "2025-06-18",
+            "location": "SecureTech Auditorium, Mansoura",
+            "description": "Raise your awareness on modern cyber threats, ethical hacking, and data protection strategies.",
+            "organizer": "CyberShield Org",
+            "registrationLink": "https://example.com/register/cyber-day"
+        },
+        {
+            "id": 5,
+            "title": "Women in Tech Summit",
+            "largeImage": "img/portfolio/05-large.jpg",
+            "smallImage": "img/portfolio/05-small.jpg",
+            "date": "2025-05-30",
+            "location": "Heliopolis Tech Space, Cairo",
+            "description": "Celebrating and empowering women in the technology field through talks, panels, and networking.",
+            "organizer": "TechLadies Egypt",
+            "registrationLink": "https://example.com/register/women-tech-summit"
+        },
+        {
+            "id": 6,
+            "title": "Full Stack Bootcamp",
+            "largeImage": "img/portfolio/06-large.jpg",
+            "smallImage": "img/portfolio/06-small.jpg",
+            "date": "2025-09-12",
+            "location": "Online (Zoom)",
+            "description": "An intensive bootcamp covering front-end, back-end, databases, and deployment tools.",
+            "organizer": "DevCamp Academy",
+            "registrationLink": "https://example.com/register/fullstack-bootcamp"
+        },
+        {
+            "id": 7,
+            "title": "Data Science Hackathon",
+            "largeImage": "img/portfolio/07-large.jpg",
+            "smallImage": "img/portfolio/07-small.jpg",
+            "date": "2025-06-25",
+            "location": "DataHub Campus, Assiut",
+            "description": "Compete in teams to solve real-world problems using data science and machine learning.",
+            "organizer": "DataHub Egypt",
+            "registrationLink": "https://example.com/register/ds-hackathon"
+        },
+        {
+            "id": 8,
+            "title": "Cloud Computing Conference",
+            "largeImage": "img/portfolio/08-large.jpg",
+            "smallImage": "img/portfolio/08-small.jpg",
+            "date": "2025-07-08",
+            "location": "Cairo Convention Center",
+            "description": "Learn about the latest in cloud infrastructure, DevOps, and enterprise scalability solutions.",
+            "organizer": "CloudConnect MENA",
+            "registrationLink": "https://example.com/register/cloud-conf"
+        },
+        {
+            "id": 9,
+            "title": "Tech for Good Expo",
+            "largeImage": "img/portfolio/09-large.jpg",
+            "smallImage": "img/portfolio/09-small.jpg",
+            "date": "2025-10-02",
+            "location": "Innovation Valley, Giza",
+            "description": "Showcasing how technology can solve social issues, improve lives, and support communities.",
+            "organizer": "ImpactTech Network",
+            "registrationLink": "https://example.com/register/tech4good"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-calendar-check",
+            "name": "Event Management",
+            "text": "We provide powerful tools to organize and manage events from start to finish, ensuring a seamless and efficient experience for you."
+        },
+        {
+            "icon": "fa fa-ticket-alt",
+            "name": "Ticketing System",
+            "text": "Our secure and easy-to-use ticketing system allows you to manage sales, registrations, and participants all in one place."
+        },
+        {
+            "icon": "fa fa-bell",
+            "name": "Real-time Notifications",
+            "text": "Stay informed with real-time updates for both organizers and participants, ensuring no important information is missed."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Attendee Management",
+            "text": "Manage and communicate with your event attendees efficiently, sending updates, tracking attendance, and collecting feedback easily."
+        },
+        {
+            "icon": "fa fa-cloud-upload-alt",
+            "name": "File Sharing",
+            "text": "Easily share event documents, schedules, and media files with participants, with access available at any time."
+        },
+        {
+            "icon": "fa fa-chart-line",
+            "name": "Analytics & Reporting",
+            "text": "Gain valuable insights into your event’s success with advanced analytics and reporting tools, tracking sales, attendance, and more."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"The EventMaster platform made event planning so much easier. From organizing to managing attendees, everything was seamless and efficient. Highly recommend!\"",
+            "name": "Ali Ahmed"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"As an event organizer, EventMaster helped me manage everything from ticket sales to attendee communication effortlessly. A game-changer for my events!\"",
+            "name": "Ahmed Hassan"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"I’ve attended several events organized using EventMaster, and I was impressed by how easy the registration and updates were. A top-tier platform for event management!\"",
+            "name": "Anas Khaled"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"EventMaster’s user-friendly interface made the entire event process smoother. From ticketing to notifications, it was all at my fingertips. Great tool for any event organizer!\"",
+            "name": "Sarah Ali"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"I recently attended a concert organized through EventMaster, and the experience was fantastic! The system provided real-time updates and made everything hassle-free.\"",
+            "name": "Omar Farouk"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"EventMaster is a game-changer! As an event organizer, it made everything more streamlined—from ticket management to seamless communication with attendees. A must-have!\"",
+            "name": "Laila Mohamed"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Event Management",
+            "text": "Easily create, edit, and manage your events with a user-friendly interface designed for organizers."
+        },
+        {
+            "icon": "fa fa-users",
+            "title": "Participant Registration",
+            "text": "Allow participants to browse, register, and pay for events securely and efficiently."
+        },
+        {
+            "icon": "fa fa-bell",
+            "title": "Real-Time Notifications",
+            "text": "Send instant updates and reminders to participants about event changes or important notices."
+        },
+        {
+            "icon": "fa fa-file",
+            "title": "Materials & Attachments",
+            "text": "Upload event-related documents and allow attendees to download materials anytime."
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+.fadeIn {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.scaleIn{
+  transition: all 0.5s ease-in-out;
+}
+
+.scaleIn:hover {
+  transform: scale(1.15);
+}
+
+.shadow_2xl{
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-right: 1rem;
+  padding: 4rem; /* increased padding */
+  width: 100%;
+  min-height: 90vh; /* makes it take up most of the viewport */
+}
+
+  
+  .containerMd {
+    flex-direction: row; /* Row direction for larger screens */
+    justify-content: flex-start; /* Align items at the top of the container */
+  }
+  
+  .imageWrapper {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .profileImage {
+  width: 180px; /* or try 200px */
+  height: 180px;
+  object-fit: cover;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+}
+
+  
+  .profileName {
+    font-weight: bold;
+    color: #3d2b1f;
+    margin-bottom: 0.5rem;
+  }
+  
+  .profileRole {
+    color: #3d2b1f;
+    margin-top: 0; /* Ensure there’s no extra space above the profileRole */
+  }
+  
+  .button {
+    background-color: #5ca9fb;
+    background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+    color: white;
+    margin-top: 1rem;
+    border-radius: 20px;
+    padding: 10px;
+    border: 0;
+  }
+  
+  .button:hover{
+    background-color: #6372ff;
+    background-image: none;
+    transition: all 0.6s ease-in-out;
+  }
+  
+  .mainSection {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-left: 1rem;
+  }
+  
+  .sectionTitle {
+    font-weight: bold;
+    color: #3d2b1f;
+    margin-bottom: 1rem;
+  }
+  
+  .sectionContent {
+    color: #3d2b1f;
+    margin-bottom: 1.5rem;
+  }
+  
+  .badge {
+    background-color: #5ca9fb;
+    background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    white-space: nowrap; /* Prevents badge text from wrapping mid-word */
+    font-size: 0.95rem;
+    display: inline-block;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 3px;
+  }
+  
+  /* Make font and padding smaller on narrow screens */
+  @media (max-width: 576px) {
+    .badge {
+      font-size: 0.75rem;
+      padding: 0.3rem 0.6rem;
+    }
+    .container{
+      margin-left: 4rem;
+      width: 90%;
+    }
+  }
+  
+  
+  .contactList {
+    list-style-type: none;
+    padding-left: 0;
+    color: #3d2b1f;
+  }
+  
+  .contactList li {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+      flex-direction: column; /* Stack the columns in small screen */
+    }
+  
+    .imageWrapper,
+    .mainSection {
+      width: 100%; /* Take full width on small screens */
+    }
+  
+    .mainSection {
+      margin-top: 1rem;
+    }
+  }
+  
+
+
+
+
+
+  /* Modal Overlay */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1050;
+}
+
+/* Modal itself */
+.modal {
+  background-color: #fff;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+/* Modal Close Button */
+.closeModal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+/* Responsive Design for the Modal */
+@media (max-width: 768px) {
+  .modal {
+    width: 90%;
+    padding: 1rem;
+  }
+}
